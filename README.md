@@ -24,6 +24,11 @@ This repository contains a project focusing on detecting emotions from text data
 - NumPy
 - Altair
 - Plotly
+![resim](https://github.com/kubrabahadir/Emotion_Text_Detection_Turkish/assets/84035740/1d0ca139-f765-48c1-b56a-7235fb9e1956)
+![resim](https://github.com/kubrabahadir/Emotion_Text_Detection_Turkish/assets/84035740/fd220ac5-85e2-4d48-acc5-f2d82528fa56)
+![resim](https://github.com/kubrabahadir/Emotion_Text_Detection_Turkish/assets/84035740/3d7f0bf7-aa8a-4ac8-8d93-d0f47e48d61a)
+![resim](https://github.com/kubrabahadir/Emotion_Text_Detection_Turkish/assets/84035740/5fbb9b58-21a2-4cbf-bb0d-7d6d3b465a36)
+
 
 ## Getting Started
 
