@@ -1,6 +1,5 @@
 # Emotion Text Detection Turkish 
-
-# Student by Kübra Bahadır 
+Student by Kübra Bahadır 
 190401014
 
 # Emotion Detection in Turkish Text
